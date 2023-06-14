@@ -1,10 +1,10 @@
 .card-header{
-    background-color: black;
-    color: aliceblue;
+    background-color: rgb(11, 181, 223);
+    color: rgb(10, 10, 10);
     text-align: center;
 }
 body{
-    background-color: rgb(84, 219, 253) !important;
+    background-color: rgb(212, 253, 9) !important;
     display: grid;
     justify-content: center;
     
@@ -17,9 +17,9 @@ span{
     font-weight: bold;
 }
 .card{
-    background: linear-gradient( rgb(206, 178, 178),grey);
+    background: linear-gradient( rgb(148, 144, 144),grey);
     border-radius: 5px;
-    box-shadow: 5px 5px 2px  rgb(205, 61, 61);
+    box-shadow: 5px 5px 2px  rgb(0, 0, 0);
     width:20rem;
     height: 29rem;
    
